@@ -56,5 +56,8 @@ nav .r {
   .xs-visible {
     visibility: visible;
   }
+  .hidden {
+    visibility: hidden;
+  }
 }
 </style>
